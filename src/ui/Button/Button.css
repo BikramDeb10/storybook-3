@@ -1,0 +1,24 @@
+.btn {
+  padding: 10px 15px;
+  color: aliceblue;
+}
+
+.primary {
+  background-color: rgb(35, 125, 199);
+}
+
+.secondary {
+  background-color: rgb(172, 35, 199);
+}
+.third {
+  background-color: rgb(33, 197, 142);
+}
+.fourth {
+  background-color: rgb(184, 173, 31);
+}
+.alert {
+  background-color: rgb(199, 35, 35);
+}
+.active {
+  background-color: rgb(49, 199, 35);
+}
